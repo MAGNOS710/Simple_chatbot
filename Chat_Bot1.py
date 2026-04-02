@@ -3,7 +3,7 @@ from datetime import datetime
 def contains(terms , content):
 
     content = content.lower()
-    match = []
+    match : list[bool] = []
     for term in terms:
         match.append(term in content)
     return any(match)
