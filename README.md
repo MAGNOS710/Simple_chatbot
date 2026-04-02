@@ -21,7 +21,7 @@ This project demonstrates basic string matching and user interaction in the term
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/simple-chatbot.git
+git clone https://github.com/MAGNOS710/simple-chatbot.git
 ```
 
 2. Navigate to the project folder:
